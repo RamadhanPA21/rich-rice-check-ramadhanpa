@@ -8,7 +8,7 @@ from PIL import Image
 # KONFIGURASI
 # ============================================================
 
-MODEL_PATH = "../model/best_rice_disease_model.keras"
+MODEL_PATH = "best_rice_disease_model.keras"
 
 IMG_SIZE = (224, 224)
 
